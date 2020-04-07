@@ -39,7 +39,7 @@ https://www.kaggle.com/c/home-credit-default-risk/
 - **HomeCredit_columns_description.csv**
   - This file contains descriptions for the columns in the various data files.
 
-
+<img src="images/home_credit.png" alt="md_img" width="100%;" />
 
 ## 3. Evaluation(평가)
 
